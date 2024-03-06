@@ -70,6 +70,7 @@ public class LAB_ACTIVITY_3 {
                     }
                     
                 }
+                scanner.close();
             }
         }
 
