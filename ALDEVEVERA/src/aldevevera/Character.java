@@ -12,7 +12,7 @@ class Character {
      Character (int health, int damage, int shield){
         this.health = health;
         this.damage = damage;
-        this.shield = health;
+        this.shield = shield;
     }
     
     public int getHealth () {
